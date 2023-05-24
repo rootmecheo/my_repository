@@ -1,1 +1,1 @@
-third ntry should succeed
+third entry should succeed
